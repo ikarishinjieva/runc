@@ -29,19 +29,13 @@
 			"Rev": "b4a58d95188dd092ae20072bac14cece0e67c388"
 		},
 		{
-			"ImportPath": "github.com/docker/docker/pkg/mount",
-			"Comment": "v1.4.1-4831-g0f5c9d3",
-			"Rev": "0f5c9d301b9b1cca66b3ea0f9dec3b5317d3686d"
+			"ImportPath": "github.com/docker/docker/pkg/mount"
 		},
 		{
-			"ImportPath": "github.com/docker/docker/pkg/symlink",
-			"Comment": "v1.4.1-4831-g0f5c9d3",
-			"Rev": "0f5c9d301b9b1cca66b3ea0f9dec3b5317d3686d"
+			"ImportPath": "github.com/docker/docker/pkg/symlink"
 		},
 		{
-			"ImportPath": "github.com/docker/docker/pkg/term",
-			"Comment": "v1.4.1-4831-g0f5c9d3",
-			"Rev": "0f5c9d301b9b1cca66b3ea0f9dec3b5317d3686d"
+			"ImportPath": "github.com/docker/docker/pkg/term"
 		},
 		{
 			"ImportPath": "github.com/docker/go-units",
